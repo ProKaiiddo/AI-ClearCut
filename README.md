@@ -24,7 +24,7 @@ AI ClearCut is a simple and free AI-powered tool to remove image backgrounds ins
     ```
 2.  **Running the application:**
 
-    Run the `main.py` file:
+    Run the `app.py` file:
     ```bash
     python main.py
     ```
