@@ -15,7 +15,7 @@ AI ClearCut is a simple and free AI-powered tool to remove image backgrounds ins
 
     Clone the repository:
     ```bash
-    git clone https://github.com/prokaiiddo/ai-clearcut.git # Replace with your repo URL
+    git clone https://github.com/prokaiiddo/ai-clearcut.git
     cd ai-clearcut
     ```
     Install the required dependencies:
